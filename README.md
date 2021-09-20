@@ -1,6 +1,22 @@
 # SparksWeb
 
-# Images
+This is a Basic Banking System with dummy data in the database of 10 customers.
+
+It has no log-in or authentication page. It only transfers money between multiple users and updates the database accordingly. 
+
+Flow > Home Page > View all Customers > Select and View one Customer > Transfer Money > Select Customer to Transfer to > View all Customers.
+       
+  Technological Stacks : 
+       1. HTML
+       2. MySQL
+       3. PHP
+    
+   Styling source : 
+1.  CSS  
+2.  Bootstrap 
+    
+
+# Website Images
 
 ![](Scrn/Screenshot%20(9).png)
 ![](Scrn/Screenshot%20(10).png)
