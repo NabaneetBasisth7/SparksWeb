@@ -2,4 +2,4 @@
 
 # Images
 
-![](Scrn/Screenshot (10).png)
+![](Scrn/Screenshot%20(10).png)
